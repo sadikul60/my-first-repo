@@ -3,4 +3,9 @@ h1{
     font-size: 40px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     letter-spacing: 1px;
+    text-align: center;
+}
+h3{
+    color: red;
+    font-size: 20px;
 }
